@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.head {
+    height: 643px;
+    width: 1366px;
+}
+
+.header {
+    height: 110px;
+    width: 100%;
+    background-color: #DDD;
+}
+
+.container {
+    height: 423px;
+    width: 100%;
+}
+
+.footer {
+    height: 110px;
+    width: 100%;
+    background-color: #ddd;
+}
+
+li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    list-style: none;
+}
+
+nav {
+    float: right;
+    word-spacing: 20px;
+    padding: 20px;
+    margin-right: 50px;
+}
+
+nav li {
+    display: inline-block;
+    line-height: 70px;
+}
+
+.container img {
+    height: 423px;
+    width: 100%;
+}
